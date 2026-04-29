@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "AIUB NOTES",
+    "owner": "aiub-notes-app",
     "slug": "aiub-notes",
     "scheme": "aiubnotes",
     "version": "1.0.0",
