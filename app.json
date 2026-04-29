@@ -1,7 +1,6 @@
 {
   "expo": {
     "name": "AIUB NOTES",
-    "owner": "aiub-notes-app",
     "slug": "aiub-notes",
     "scheme": "aiubnotes",
     "version": "1.0.0",
@@ -31,11 +30,6 @@
     "web": {
       "bundler": "metro",
       "output": "single"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "dd96da7a-50e9-4e06-852f-d127322dbb54"
-      }
     }
   }
 }
