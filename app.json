@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "AIUB NOTES",
+    "slug": "aiub-notes",
+    "scheme": "aiubnotes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "jsEngine": "hermes",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1B5E3B"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tanvir.aiubnotes"
+    },
+    "android": {
+      "package": "com.tanvir.aiubnotes",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#1B5E3B"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c5ef524b-149c-40db-a7d8-e7f0a4fa7296"
+      }
+    }
+  }
+}
